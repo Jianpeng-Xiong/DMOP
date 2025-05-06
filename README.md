@@ -1,19 +1,24 @@
 DMOP: dynamic multi-objective optimization problem
 ======
-🐨Introduction
+🦧Introduction
 -------
 Welcome to my GitHub homepage, where my papers and code are available. 
 These are DMOPs written by me, which include all the test questions in the experimental section of my published paper, as well as some additional test sets.
-The improvement this paper has brought me far exceeds the significance of the article itself.
-If you have any questions about this article or related fields, please feel free to communicate with me at any time. QQ-email💌:1972026766@qq.com. 😇
+If you have any questions about DMO or related fields, please feel free to communicate with me at any time. QQ-email💌:1972026766@qq.com. 😇
 
-🦫Environment
+🦊Environment
 ---
 The operating environment is based on [Matlab2018b](https://www.mathworks.com/) at least. 
 The platform we are using is an improved development based on the existing platform. 
 __`Not open to the public`__, therefore this code __`cannot`__ run on your computer, for reference only. 😭
 
-🦁Acknowledgements
+🐏references
+---
+[DF](https://ieeexplore.ieee.org/document/7381632), [FDA](https://ieeexplore.ieee.org/document/1347158), [UDF](https://ieeexplore.ieee.org/document/6900487), [F](https://ieeexplore.ieee.org/document/6471286), 
+[dMOP](https://ieeexplore.ieee.org/document/4553723), [JY](https://ieeexplore.ieee.org/document/7381632)
+
+
+🐘Acknowledgements
 ---
 The journey has been very difficult, and I would like to thank my supervisor, [Hu Peng](https://whuph.github.io/index.html), and many researchers, especially the open-source research group.
 Including but not limited to:
@@ -32,7 +37,7 @@ Including but not limited to:
  
  __Useful links__*  [Paper](https://www.sciencedirect.com/science/article/abs/pii/S2210650224001597), [PlatEMO](https://github.com/BIMK/PlatEMO), [IEEE](https://ieeexplore.ieee.org/Xplore/home.jsp), [Elsevier](https://www.sciencedirect.com/), [MATLAB](https://www.mathworks.com/products/matlab.html), [QS ranking](https://www.qschina.cn/), [CS ranking](https://csrankings.org/)
  
-🦤Citation
+🐸Citation
 -----
 If you find our [work](https://www.sciencedirect.com/science/article/abs/pii/S2210650224001597) useful in your research, please consider citing:
 ```
