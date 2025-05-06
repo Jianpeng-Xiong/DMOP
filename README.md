@@ -3,7 +3,7 @@ DMOP: dynamic multi-objective optimization problem
 🦧Introduction
 -------
 Welcome to my GitHub homepage, where my papers and code are available. 
-These are DMOPs written by me, which include all the test questions in the experimental section of my published paper, as well as some additional test sets.
+These are DMOPs written by me, which include all the benchmark tests in the experimental section of my published paper, as well as some additional test sets.
 If you have any questions about DMO or related fields, please feel free to communicate with me at any time. QQ-email💌:1972026766@qq.com. 😇
 
 🦊Environment
